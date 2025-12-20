@@ -1,5 +1,5 @@
 # <img src="twitter_icon.png" alt="Twitter icon" width="25" /> Smiley Prediction in Twitter Sentiment Data
-The task of this competition is to predict whether a tweet originally contained a positive `:)` or a negative `:(` smiley, using only the remaining text.  
+The task of this project is to predict whether a tweet originally contained a positive `:)` or a negative `:(` smiley, using only the remaining text.  
 
 Our final results were submitted to [AIcrowd](https://www.aicrowd.com/challenges/epfl-ml-text-classification), where our best model achieved **92.0%** accuracy. 
 
