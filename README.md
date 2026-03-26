@@ -10,7 +10,7 @@ Our final results were submitted to [AIcrowd](https://www.aicrowd.com/challenges
 | GloVe                | GloVe + MLP (improved)               | 82.9              | #304285       |
 | FastText             | FastText + MLP (improved)            | 83.6              | #304286       |
 | TweetNLP-sentiment   | TweetNLP-sentiment (fine-tuned)      | 90.6              | #304369       |
-| BERTweet             | BERTweet (fine-tuned)                | 92.0              | #305590       |
+| BERTweet             | BERTweet (fine-tuned)                | 92.0  *           | #305590       |
 
 
 Further details and illustrations are provided in the accompanying report.
